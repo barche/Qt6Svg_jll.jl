@@ -1,0 +1,8 @@
+[[Qt6Svg]]
+arch = "x86_64"
+git-tree-sha1 = "9ee0600a7476bf3ac9e9649933844ae0c4e557a1"
+os = "macos"
+
+    [[Qt6Svg.download]]
+    sha256 = "ecba0f85d38c5af7da362b6cd326b5572329741689e069f16ccc20c4c62751c1"
+    url = "https://github.com/barche/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.3.0+0/Qt6Svg.v6.3.0.x86_64-apple-darwin.tar.gz"
