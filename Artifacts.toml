@@ -6,3 +6,13 @@ os = "macos"
     [[Qt6Svg.download]]
     sha256 = "ecba0f85d38c5af7da362b6cd326b5572329741689e069f16ccc20c4c62751c1"
     url = "https://github.com/barche/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.3.0+0/Qt6Svg.v6.3.0.x86_64-apple-darwin.tar.gz"
+[[Qt6Svg]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1e38fdb7dd160f125180159c894ee68d65962035"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Svg.download]]
+    sha256 = "0c257b31f0919467b9f47c8489c6891dd7cdf840dadf913ae9f98db1ccd15626"
+    url = "https://github.com/barche/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.3.0+0/Qt6Svg.v6.3.0.x86_64-linux-gnu-cxx11.tar.gz"
